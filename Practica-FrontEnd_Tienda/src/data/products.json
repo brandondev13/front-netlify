@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10,
+    "imgUrl": "./images/book.png",
+    "description": "A fascinating book that will captivate your mind."
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 800,
+    "imgUrl": "./images/laptop.png",
+    "description": "Powerful and portable, this laptop is perfect for any task."
+  },
+  {
+    "id": 3,
+    "name": "TV",
+    "price": 400,
+    "imgUrl": "./images/tv.png",
+    "description": "Immerse yourself in the stunning visuals of this high-quality TV."
+  },
+  {
+    "id": 4,
+    "name": "Washer",
+    "price": 550,
+    "imgUrl": "./images/washer.png",
+    "description": "Efficient and reliable, this washer makes laundry a breeze."
+  }
+]

@@ -1,0 +1,37 @@
+/* Navbar.css */
+.navbar {
+    background-color: #fa4141;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .cart-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-count {
+    background-color: blue;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 5px;
+  }
+  
+  .login-button {
+    background-color: #be1e1e;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
